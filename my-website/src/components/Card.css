@@ -1,0 +1,21 @@
+.sign-card {
+    width: 10rem;
+    height: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .semn-img{
+      width: 110%;
+  }
+
+  .clicked-card{
+      background-color: white ;
+  }

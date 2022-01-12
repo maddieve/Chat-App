@@ -1,0 +1,24 @@
+.sidebar-container {
+  width: 17vw !important;
+  height: 100vh;
+
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover{
+  color: #333;
+  text-underline-offset: 0;
+  text-underline-position: unset;
+}
+
+.btn-creare-camera{
+margin-right: 26%;
+background-color: #003566;
+border: transparent;
+
+}
+
