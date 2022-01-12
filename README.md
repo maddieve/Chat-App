@@ -9,9 +9,7 @@ Darksy is an application that started from the desire to create an environment a
 [![logo-nume.png](https://i.postimg.cc/MGFG8Cc7/logo-nume.png)](https://postimg.cc/PL1HWFQJ)
 ## Demo
 
-[![Demo-Darksy-1.gif](https://i.postimg.cc/5N8jC9yj/Demo-Darksy-1.gif)](https://postimg.cc/TpYR86rX)
-
-
+[![Demo-Darksy-1.gif](https://i.postimg.cc/5NVyVHqp/Demo-Darksy-1.gif)](https://postimg.cc/mhmB3gnF)
 ## ⛏️ Built Using
 
 **Client:** 
